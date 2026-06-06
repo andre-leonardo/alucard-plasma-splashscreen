@@ -1,0 +1,9 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Id": "org.kde.alucardsplash",
+        "Name": "Alucard Splash",
+        "Description": "Alucard Splashscreen",
+        "Version": "1.0"
+    }
+}
